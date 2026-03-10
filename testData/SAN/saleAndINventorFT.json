@@ -1,0 +1,5 @@
+{"invalid":[{"url":"http://49.249.28.218:8081/TestServer/Build/Electronics_Parts_Sales_and_Inventory_System/pages/login.php","username":"admi","password":"admin"},
+ {"url":"http://49.249.28.218:8081/TestServer/Build/Electronics_Parts_Sales_and_Inventory_System/pages/login.php","username":"admin","password":"admi"},
+ {"url":"http://49.249.28.218:8081/TestServer/Build/Electronics_Parts_Sales_and_Inventory_System/pages/login.php","username":"admin12","password":"admin12"}],
+ "valid":[{"url":"http://49.249.28.218:8081/TestServer/Build/Electronics_Parts_Sales_and_Inventory_System/pages/login.php","username":"admin","password":"admin"}]
+  }
